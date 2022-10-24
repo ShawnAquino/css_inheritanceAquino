@@ -8,4 +8,59 @@
   width: 90%;
   max-width: 39rem;
   margin: 0 auto;
+  font-family: 'PT Serif', serif;
+  
+
+
 }
+
+h1,body{
+  color:#414141;
+  margin-bottom: 0px;
+}
+
+.subtitle, body{
+  font-weight: 400px;
+  line-height: 1.6rem;
+
+}
+
+header{
+  text-align: center;
+  padding: 110px 50px 50px;
+
+}
+
+h1{
+  font-family:'Cinzel', serif;
+  font-size: 96px;
+  line-height: 6rem;
+  text-transform: uppercase;
+  font-weight:900;
+
+}
+
+.subtitle{
+  font-size: 36px;
+  color: #7D7D7D;
+  line-height: 2.25rem;
+  padding: 0px 250px 0px;
+
+}
+
+.lead{
+  font-size: 21px;
+  line-height: 1.3125;
+  
+
+}
+
+
+a{
+  color:#CA5E10;
+}
+
+body{
+  font-size: 18px;
+}
+
